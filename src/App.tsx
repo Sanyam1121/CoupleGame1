@@ -69,7 +69,7 @@ function App() {
         {currentView === 'home' && (
           <div className="text-center max-w-3xl mx-auto transition-all duration-500 animate-fadeIn">
             <h1 className="text-4xl md:text-5xl font-bold mb-6 text-transparent bg-clip-text bg-gradient-to-r from-pink-500 to-purple-500">
-              Couple's Playdate
+              PLay With Muski
             </h1>
             <p className="text-lg md:text-xl mb-8 text-gray-700">
               Play, chat, and connect with your partner through fun interactive games!
